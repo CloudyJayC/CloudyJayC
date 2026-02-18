@@ -63,7 +63,9 @@ I'm a Junior Software Developer with hands-on experience in full-stack web devel
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CloudyJayC&theme=github-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudyJayC&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Profile Views](https://komarev.com/ghpvc/?username=CloudyJayC&color=0f62fe&style=flat-square&label=Profile+Views)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CloudyJayC&theme=github-compact&hide_border=true)
 
 </div>
 
