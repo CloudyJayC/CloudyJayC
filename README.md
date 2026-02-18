@@ -83,3 +83,4 @@ I'm a Junior Software Developer with hands-on experience in full-stack web devel
 *Open to junior developer opportunities — let's build something great.*
 
 </div>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=[yourusername]&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
