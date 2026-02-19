@@ -153,12 +153,6 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CloudyJayC&show_icons=true&theme=github_dark&hide_border=true&title_color=00eeff&icon_color=00eeff&text_color=ffffff&bg_color=1f242d" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudyJayC&layout=compact&theme=github_dark&hide_border=true&title_color=00eeff&text_color=ffffff&bg_color=1f242d" height="165"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=CloudyJayC&theme=github-dark&hide_border=true&ring=00eeff&fire=00eeff&currStreakLabel=00eeff" width="49%"/>
 
 <br/><br/>
