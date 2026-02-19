@@ -3,9 +3,10 @@
 # Hey, I'm Jason Cameron 👋
 ### Junior Software Developer · Port Elizabeth, South Africa
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-cloudyjayc.github.io-0f62fe?style=for-the-badge)](https://cloudyjayc.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jasoncameron--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasoncameron-dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jason.dev-0f62fe?style=for-the-badge)](https://cloudyjayc.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-cameron-69b080352)
 [![Email](https://img.shields.io/badge/Email-jwcameron3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwcameron3@gmail.com)
+[![Available](https://img.shields.io/badge/Status-Open_to_Opportunities-00eeff?style=for-the-badge)](https://cloudyjayc.github.io/)
 
 </div>
 
@@ -18,7 +19,8 @@ I'm a Junior Software Developer with hands-on experience in full-stack web devel
 - 🎓 IT Cybersecurity Specialist Diploma — CTU Training Solutions *(NQF-6, Avg: 89.8%)*
 - 🏅 Microsoft Azure Data Fundamentals certified
 - 🏅 ITS Certified: HTML & CSS
-- 🔭 Currently building: **Municipality Management System** (ASP.NET Core 8 MVC)
+- 🔭 Currently building: **DocumentScannerAI** — AI-powered PDF analyzer using Python & spaCy
+- ✅ Recently completed: **Municipality Management System** — ASP.NET Core 8 MVC web app
 - 📍 Based in Port Elizabeth (Gqeberha), South Africa
 
 ---
@@ -71,17 +73,19 @@ I'm a Junior Software Developer with hands-on experience in full-stack web devel
 
 ---
 
-### 💼 Experience Highlights
+### 💼 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| MVC Web Developer Intern | KayiseIT | Jul 2024 |
+| Role | Company | Period |
+|------|---------|--------|
 | Cybersecurity Specialist Intern | CoastIT | Nov 2025 |
+| MVC Web Developer Intern | KayiseIT | Jul 2024 |
 
 ---
 
 <div align="center">
 
-*Open to junior developer opportunities — let's build something great.*
+**Open to junior developer roles — feel free to reach out!**
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-cloudyjayc.github.io-0f62fe?style=for-the-badge)](https://cloudyjayc.github.io/)
 
 </div>
