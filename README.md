@@ -222,9 +222,4 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f242d,50:0ef,100:1f242d&height=120&section=footer" width="100%"/>
-
-**Open to junior developer roles — feel free to reach out!**
-
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-cloudyjayc.github.io-0f62fe?style=for-the-badge)](https://cloudyjayc.github.io/)
-
 </div>
