@@ -59,6 +59,15 @@ I'm a Junior Software Developer with hands-on experience in full-stack web devel
 
 ---
 
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Municipality Management System](https://github.com/CloudyJayC/MuncipalityManagementSystem) | MVC web app for managing citizens, service requests, staff and reports | ASP.NET Core 8, SQL Server, Bootstrap 5 |
+| [DocumentScannerAI](https://github.com/CloudyJayC/DocumentScannerAI) *(WIP)* | AI-powered PDF scanner with keyword analysis and named entity recognition | Python 3.12, spaCy |
+
+---
+
 ### 📊 GitHub Activity
 
 <div align="center">
@@ -75,15 +84,49 @@ I'm a Junior Software Developer with hands-on experience in full-stack web devel
 
 ### 💼 Experience
 
-| Role | Company | Period |
-|------|---------|--------|
-| Cybersecurity Specialist Intern | CoastIT | Nov 2025 |
-| MVC Web Developer Intern | KayiseIT | Jul 2024 |
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🔐 Cybersecurity Specialist Intern</h4>
+      <strong>CoastIT</strong> &nbsp;·&nbsp; <em>November 2025 · 1 month</em>
+      <br><br>
+      <ul>
+        <li>Supported Linux-based systems and Docker containerized environments</li>
+        <li>Improved operational reliability and deployment processes</li>
+        <li>Contributed to cybersecurity-related projects</li>
+        <li>Collaborated with a team to meet deadlines and deliver results</li>
+      </ul>
+      <br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cybersecurity-00eeff?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DevOps-4A90D9?style=flat-square&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4>🌐 MVC Web Developer Intern</h4>
+      <strong>KayiseIT</strong> &nbsp;·&nbsp; <em>July 2024 · 2 weeks</em>
+      <br><br>
+      <ul>
+        <li>Built and maintained an Asset Management Tracker using ASP.NET Core and Node.js</li>
+        <li>Troubleshot SQL Server and MongoDB database issues</li>
+        <li>Developed and tested RESTful APIs with Postman</li>
+        <li>Managed version control and collaboration via Git & GitHub</li>
+      </ul>
+      <br>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
 **Open to junior developer roles — feel free to reach out!**
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-cloudyjayc.github.io-0f62fe?style=for-the-badge)](https://cloudyjayc.github.io/)
 
 </div>
