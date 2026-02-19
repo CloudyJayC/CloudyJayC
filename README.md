@@ -86,6 +86,4 @@ I'm a Junior Software Developer with hands-on experience in full-stack web devel
 
 **Open to junior developer roles — feel free to reach out!**
 
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-cloudyjayc.github.io-0f62fe?style=for-the-badge)](https://cloudyjayc.github.io/)
-
 </div>
