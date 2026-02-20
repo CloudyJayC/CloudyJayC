@@ -54,7 +54,7 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 - 🎓 **IT Cybersecurity Specialist Diploma** — CTU Training Solutions *(NQF-6, Avg: 89.8%)*
 - 🏅 **Microsoft Azure Data Fundamentals** certified
 - 🏅 **ITS Certified:** HTML & CSS
-- 🔭 **Currently building:** [DocumentScannerAI](https://github.com/CloudyJayC/DocumentScannerAI) — AI-powered PDF analyzer using Python & spaCy
+- 🔭 **Currently building:** [DocumentScannerAI](https://github.com/CloudyJayC/DocumentScannerAI) — AI-powered PDF resume analyzer using Python & PyQt6
 - ✅ **Recently completed:** [Municipality Management System](https://github.com/CloudyJayC/MuncipalityManagementSystem) — ASP.NET Core 8 MVC
 - 📍 Port Elizabeth (Gqeberha), South Africa
 
@@ -129,11 +129,11 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
     </td>
     <td width="50%" valign="top">
       <h3>🤖 DocumentScanner AI <sup><em>WIP</em></sup></h3>
-      <p>AI-powered PDF document scanner and analyzer. Features secure PDF text extraction, keyword analysis, and named entity recognition using spaCy. Modular Python project built for easy expansion.</p>
+      <p>AI-powered PDF resume scanner and analyzer with a professional dark-theme GUI. Features secure PDF validation, malicious content detection, clean text extraction, and AI resume analysis coming in the next patch.</p>
       <p>
         <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square"/>
-        <img src="https://img.shields.io/badge/AI-00eeff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square"/>
         <img src="https://img.shields.io/badge/PDF-EC1C24?style=flat-square"/>
       </p>
       <a href="https://github.com/CloudyJayC/DocumentScannerAI">
@@ -216,4 +216,5 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f242d,50:0ef,100:1f242d&height=120&section=footer" width="100%"/>
+
 </div>
