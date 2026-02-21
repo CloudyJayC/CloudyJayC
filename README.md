@@ -54,7 +54,7 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 - 🎓 **IT Cybersecurity Specialist Diploma** — CTU Training Solutions *(NQF-6, Avg: 89.8%)*
 - 🏅 **Microsoft Azure Data Fundamentals** certified
 - 🏅 **ITS Certified:** HTML & CSS
-- 🔭 **Currently building:** [DocumentScannerAI](https://github.com/CloudyJayC/DocumentScannerAI) — AI-powered PDF resume analyzer using Python & PyQt6
+- ✅ **Recently completed:** [DocumentScannerAI](https://github.com/CloudyJayC/DocumentScannerAI) — AI-powered PDF resume analyzer using Python, PyQt6 & Ollama
 - ✅ **Recently completed:** [Municipality Management System](https://github.com/CloudyJayC/MuncipalityManagementSystem) — ASP.NET Core 8 MVC
 - 📍 Port Elizabeth (Gqeberha), South Africa
 
@@ -115,6 +115,19 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🤖 DocumentScanner AI</h3>
+      <p>AI-powered PDF resume scanner and analyzer with a professional dark-theme GUI. Features secure PDF validation, malicious content detection, intelligent text extraction, and local AI resume analysis powered by Ollama (llama3.1:8b). All processing runs locally — no data leaves your machine.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PDF-EC1C24?style=flat-square"/>
+      </p>
+      <a href="https://github.com/CloudyJayC/DocumentScannerAI">
+        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🏛️ Municipality Management System</h3>
       <p>A modern ASP.NET Core 8.0 MVC web app for managing citizens, service requests, staff, and reports. Features a responsive Bootstrap UI, SQL Server integration, and robust error handling.</p>
       <p>
@@ -124,19 +137,6 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
         <img src="https://img.shields.io/badge/MVC-0ef?style=flat-square"/>
       </p>
       <a href="https://github.com/CloudyJayC/MuncipalityManagementSystem">
-        <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 DocumentScanner AI <sup><em>WIP</em></sup></h3>
-      <p>AI-powered PDF resume scanner and analyzer with a professional dark-theme GUI. Features secure PDF validation, malicious content detection, clean text extraction, and AI resume analysis coming in the next patch.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Anthropic-000000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/PDF-EC1C24?style=flat-square"/>
-      </p>
-      <a href="https://github.com/CloudyJayC/DocumentScannerAI">
         <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
