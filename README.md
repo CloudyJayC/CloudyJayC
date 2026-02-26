@@ -8,7 +8,7 @@
 <!-- QUICK LINKS -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jason.dev-0f62fe?style=for-the-badge)](https://cloudyjayc.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-cloudyjayc.github.io-0f62fe?style=for-the-badge)](https://cloudyjayc.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jason-cameron-69b080352)
 [![Email](https://img.shields.io/badge/Email-jwcameron3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jwcameron3@gmail.com)
 [![Available](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-00c853?style=for-the-badge)](https://cloudyjayc.github.io/)
@@ -55,14 +55,14 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 - 🏅 **Microsoft Azure Data Fundamentals** certified
 - 🏅 **ITS Certified:** HTML & CSS
 - ✅ **Recently completed:** [DocumentScannerAI](https://github.com/CloudyJayC/DocumentScannerAI) — AI-powered PDF resume analyzer using Python, PyQt6 & Ollama
-- ✅ **Recently completed:** [Municipality Management System](https://github.com/CloudyJayC/MuncipalityManagementSystem) — ASP.NET Core 8 MVC
+- 🔭 **Currently building:** [Municipality Management System](https://github.com/CloudyJayC/MuncipalityManagementSystem) — ASP.NET Core 10 MVC with authentication & live deployment
 - 📍 Port Elizabeth (Gqeberha), South Africa
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -92,6 +92,7 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br/>
 
@@ -108,15 +109,15 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 DocumentScanner AI</h3>
-      <p>AI-powered PDF resume scanner and analyzer with a professional dark-theme GUI. Features secure PDF validation, malicious content detection, intelligent text extraction, and local AI resume analysis powered by Ollama (llama3.1:8b). All processing runs locally — no data leaves your machine.</p>
+      <h3>DocumentScanner AI</h3>
+      <p>AI-powered PDF resume scanner and analyzer with a professional dark-theme GUI. Features secure PDF validation, malicious content detection, intelligent text extraction, local AI resume analysis via Ollama, and PDF report export. All processing runs locally — no data leaves your machine.</p>
       <p>
         <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
@@ -128,13 +129,13 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ Municipality Management System</h3>
-      <p>A modern ASP.NET Core 8.0 MVC web app for managing citizens, service requests, staff, and reports. Features a responsive Bootstrap UI, SQL Server integration, and robust error handling.</p>
+      <h3>Municipality Management System <sup><em>WIP</em></sup></h3>
+      <p>ASP.NET Core 10 MVC web app for managing citizens, service requests, staff, and reports. Currently being overhauled with ASP.NET Core Identity authentication, role-based access control, an admin dashboard, and live deployment to Azure.</p>
       <p>
-        <img src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ASP.NET_Core_10-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
         <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MVC-0ef?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
       </p>
       <a href="https://github.com/CloudyJayC/MuncipalityManagementSystem">
         <img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -149,7 +150,7 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -169,12 +170,12 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 
 ---
 
-## 💼 Experience
+## Experience
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔐 Cybersecurity Specialist Intern</h4>
+      <h4>Cybersecurity Specialist Intern</h4>
       <strong>CoastIT</strong> &nbsp;·&nbsp; <em>November 2025 · 1 month</em>
       <br/><br/>
       <ul>
@@ -190,7 +191,7 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
       <img src="https://img.shields.io/badge/DevOps-4A90D9?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 MVC Web Developer Intern</h4>
+      <h4>MVC Web Developer Intern</h4>
       <strong>KayiseIT</strong> &nbsp;·&nbsp; <em>July 2024 · 2 weeks</em>
       <br/><br/>
       <ul>
