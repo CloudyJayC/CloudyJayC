@@ -51,12 +51,12 @@ I'm a Junior Software Developer based in **Port Elizabeth, South Africa**, with 
 
 <br/>
 
-- 🎓 **IT Cybersecurity Specialist Diploma** — CTU Training Solutions *(NQF-6, Avg: 89.8%)*
-- 🏅 **Microsoft Azure Data Fundamentals** certified
-- 🏅 **ITS Certified:** HTML & CSS
-- ✅ **Recently completed:** [DocumentScannerAI](https://github.com/CloudyJayC/DocumentScannerAI) — AI-powered PDF resume analyzer using Python, PyQt6 & Ollama
-- 🔭 **Currently building:** [Municipality Management System](https://github.com/CloudyJayC/MuncipalityManagementSystem) — ASP.NET Core 10 MVC with authentication & live deployment
-- 📍 Port Elizabeth (Gqeberha), South Africa
+- **IT Cybersecurity Specialist Diploma** — CTU Training Solutions *(NQF-6, Avg: 89.8%)*
+- **Microsoft Azure Data Fundamentals** certified
+- **ITS Certified:** HTML & CSS
+- **Recently completed:** [DocumentScannerAI](https://github.com/CloudyJayC/DocumentScannerAI) — AI-powered PDF resume analyzer using Python, PyQt6 & Ollama
+- **Currently building:** [Municipality Management System](https://github.com/CloudyJayC/MuncipalityManagementSystem) — ASP.NET Core 10 MVC with authentication & live deployment
+- Port Elizabeth (Gqeberha), South Africa
 
 <br/>
 
