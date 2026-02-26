@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 > *"Turning ideas into real applications — one commit at a time."*
 
